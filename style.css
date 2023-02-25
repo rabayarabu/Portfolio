@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Crete+Round&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@100&display=swap');
 
 * {
   margin: 0;
@@ -103,7 +104,7 @@ li {
   color: #ff6b00;
   width: 320px;
   height: 5px;
-  font-family: 'Crete Round', serif;
+  font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 200;
   font-size: 44px;
