@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Crete+Round&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@100&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@100&display=swap');
+@import url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecmNE.woff2);
 
 * {
   margin: 0;
@@ -45,9 +45,11 @@ li {
   margin-left: 10px;
   text-decoration: none;
 }
+
 .navbar nav {
   align-self: flex-end;
 }
+
 .navbar img {
   display: flex;
   right: 27.67%;
@@ -66,7 +68,7 @@ li {
   flex-direction: column;
   justify-content: flex-end;
   align-self: flex-end;
-  margin: 2px 0px 2px 10px;
+  margin: 2px 0 2px 10px;
 }
 
 #bar img {
@@ -103,7 +105,7 @@ li {
   color: #ff6b00;
   width: 320px;
   height: 5px;
-  font-family: 'Crete Round', sans-serif;
+  font-family: 'Crete Round', serif;
   font-style: normal;
   font-weight: 200;
   font-size: 44px;
